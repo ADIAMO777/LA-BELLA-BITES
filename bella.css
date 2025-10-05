@@ -60,7 +60,7 @@ body {
 
 .box-1 {
   box-sizing: content-box;
-  width: 300px;
+  width: 400px;
   height: 100px;
   border: 2px;
   padding: 10px;
@@ -71,7 +71,7 @@ body {
 
 .box-2 {
   box-sizing: content-box;
-  width: 300px;
+  width: 400px;
   height: 100px;
   border: 2px;
   padding: 10px;
@@ -82,7 +82,7 @@ body {
 
 .box-3 {
   box-sizing: content-box;
-  width: 300px;
+  width: 400px;
   height: 100px;
   border: 2px;
   padding: 10px;
