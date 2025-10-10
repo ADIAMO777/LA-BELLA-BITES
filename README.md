@@ -84,7 +84,7 @@ Every part of this page shows the description on how the menu are also served an
 This is how you can create a good html project.<br>
 You can also find the link to this project here <br> 
 :**githublink** <https://github.com/ADIAMO777/LA-BELLA-BITES.git> <br>
-:**vercel** <https://vercel.com/adiamo-bankoles-projects>
+:**vercel** <https://vercel.com/adiamo-bankoles-projects> *live link*
 
 ## find a bug?
 
