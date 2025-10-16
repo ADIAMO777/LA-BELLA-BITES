@@ -9,12 +9,10 @@ body {
   justify-content: space-between;
   align-items: center;
   background-color: wheat;
-  padding-left: 200px;
-  padding-right: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
   padding-bottom: 1px;
   padding-top: 5px;
-  border-bottom: 10px solid wheat;
-  word-spacing: 2px;
 }
 
 .navbar h1 {
