@@ -77,8 +77,7 @@ section.card {
   border-bottom: 50px solid wheat;
   padding-top: 100px;
 }
-
-@media (max-width: 600px) {
+@media (max-width: 600px) { 
   .navbar ul {
     display: none;
     flex-direction: column;
